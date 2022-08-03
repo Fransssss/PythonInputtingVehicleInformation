@@ -1,8 +1,8 @@
 # PythonInputtingVehicleInformation
-Simple Data Input for a dealership
+
 
 Objective:
-- Passing objects as arguments
+- Passing objects as arguments - Simple Data Input for a dealership
 
 Example Output
 
