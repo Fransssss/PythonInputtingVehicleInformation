@@ -19,7 +19,7 @@ print("3. Bus")
 print("4. Tractor")
 print("5. Helicopter")
 print("e. Exit")
-choice = input("choice: ").lower()
+choice = input("choice: ").lower()              # make user input to lower case to make while-loop condition simpler
 
 while choice != 'e':
     if choice == '1':
